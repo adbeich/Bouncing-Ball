@@ -1,0 +1,26 @@
+#tausta	{
+	 width:auto;
+	 margin:-5px;
+	 background-size:cover;}
+
+#tausta form	{margin-left:20px;
+		display:inline;}
+
+body	{background-image:tausta_4.jpg; 
+	 width=700px;}
+
+#mainSection	{background-color:grey;
+		 width:20em;
+		 border:solid 1,5px;
+		 border-color:rgba(0, 0, 1, 0.2);
+		 padding:3px;
+		 text-align:center;
+		 margin-top:-30px;}
+
+#gameStart	{display:inline;}
+
+#tausta1	{position:absolute; 
+		left:0px; 
+		top:0px;
+		z-index:-1;
+		 margin-1px;}

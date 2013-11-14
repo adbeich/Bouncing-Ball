@@ -1,2 +1,4 @@
 helloworld
 ==========
+
+alert("Hello World!");
